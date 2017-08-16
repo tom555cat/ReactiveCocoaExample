@@ -6,7 +6,15 @@
 //  Copyright © 2017年 MAC-MiNi. All rights reserved.
 //
 
+// Pods
 #import <ReactiveCocoa/ReactiveCocoa.h>
+#import <500px-iOS-api/PXAPI.h>
+#import <libextobjc/EXTScope.h>
+
+// App Delegate
+#import "AppDelegate.h"
+#define AppDelegate ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+
 #import "ViewController.h"
 
 
