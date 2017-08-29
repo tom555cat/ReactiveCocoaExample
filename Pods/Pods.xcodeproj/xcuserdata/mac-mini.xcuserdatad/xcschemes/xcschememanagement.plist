@@ -24,25 +24,15 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>libextobjc.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>libffi.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>29FE56EE8B7CD4CEFBAA8B00CF1D4558</key>
+		<key>2A1ACBA5B055711DC98B5AFD9E202EC4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5067738940B9B549DD57B570951620D5</key>
+		<key>4A4F4325B23E368ACC85419FF2F7C122</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -52,17 +42,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DBA1C0B1494D9EB3334BD6638DB50B9A</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E9708D015E4E0401C5A642459B688288</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F50558F47351E1D32788B9E32B4AADBF</key>
+		<key>F2536F05CBE3278921063EF037E57FA4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -14,8 +14,6 @@
 		58678DFF1F43FD9F00B8FC95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58678DFD1F43FD9F00B8FC95 /* Main.storyboard */; };
 		58678E011F43FD9F00B8FC95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58678E001F43FD9F00B8FC95 /* Assets.xcassets */; };
 		58678E041F43FD9F00B8FC95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 58678E021F43FD9F00B8FC95 /* LaunchScreen.storyboard */; };
-		58678E0E1F44819600B8FC95 /* FRPGalleryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 58678E0D1F44819600B8FC95 /* FRPGalleryViewController.m */; };
-		58678E111F4481C000B8FC95 /* FRPGalleryFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 58678E101F4481C000B8FC95 /* FRPGalleryFlowLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,10 +29,6 @@
 		58678E001F43FD9F00B8FC95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58678E031F43FD9F00B8FC95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58678E051F43FDA000B8FC95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		58678E0C1F44819600B8FC95 /* FRPGalleryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FRPGalleryViewController.h; sourceTree = "<group>"; };
-		58678E0D1F44819600B8FC95 /* FRPGalleryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FRPGalleryViewController.m; sourceTree = "<group>"; };
-		58678E0F1F4481C000B8FC95 /* FRPGalleryFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FRPGalleryFlowLayout.h; sourceTree = "<group>"; };
-		58678E101F4481C000B8FC95 /* FRPGalleryFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FRPGalleryFlowLayout.m; sourceTree = "<group>"; };
 		EBDC23FBF2FEC489F8E3D663 /* libPods-ReactiveCocoaExample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactiveCocoaExample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -71,10 +65,6 @@
 		58678DF31F43FD9F00B8FC95 /* ReactiveCocoaExample */ = {
 			isa = PBXGroup;
 			children = (
-				58678E0C1F44819600B8FC95 /* FRPGalleryViewController.h */,
-				58678E0D1F44819600B8FC95 /* FRPGalleryViewController.m */,
-				58678E0F1F4481C000B8FC95 /* FRPGalleryFlowLayout.h */,
-				58678E101F4481C000B8FC95 /* FRPGalleryFlowLayout.m */,
 				58678DF71F43FD9F00B8FC95 /* AppDelegate.h */,
 				58678DF81F43FD9F00B8FC95 /* AppDelegate.m */,
 				58678DFA1F43FD9F00B8FC95 /* ViewController.h */,
@@ -236,8 +226,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				58678E0E1F44819600B8FC95 /* FRPGalleryViewController.m in Sources */,
-				58678E111F4481C000B8FC95 /* FRPGalleryFlowLayout.m in Sources */,
 				58678DFC1F43FD9F00B8FC95 /* ViewController.m in Sources */,
 				58678DF91F43FD9F00B8FC95 /* AppDelegate.m in Sources */,
 				58678DF61F43FD9F00B8FC95 /* main.m in Sources */,
